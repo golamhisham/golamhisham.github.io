@@ -30,19 +30,6 @@ The portfolio showcases three main projects:
 - PostgreSQL, FastAPI, Docker
 - AWS, Git, GitHub Actions
 
-## Contact
-
-- Email: hisgo-26@rhodes.edu
-- Phone: 901-437-9899
-- LinkedIn: [linkedin.com/in/golamhisham](https://linkedin.com/in/golamhisham)
-- GitHub: [github.com/golamhisham](https://github.com/golamhisham)
-
-## Education
-
-B.S. in Computer Science, Minor in Statistics
-Rhodes College (Aug 2022 - May 2026)
-Specialized in Artificial Intelligence, Data Science, and Statistics
-
 ## License
 
 This project is open source and available under the MIT License.
